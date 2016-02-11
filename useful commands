@@ -1,1 +1,7 @@
+Downloads version of Pydio as of 2/11/16
+
 fetch https://sourceforge.net/projects/ajaxplorer/files/pydio/stable-channel/6.2.2/pydio-core-6.2.2.tar.gz/download
+
+Dur this unzips it.
+
+tar -xzvf pydio-*
